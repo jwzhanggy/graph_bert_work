@@ -15,4 +15,4 @@ Code URL: https://github.com/jwzhanggy/SEG-BERT
 ### 3. Graph Neural Distance Metric Learning with Graph-Bert
 Release Date: Feburary 2020 <br>
 Paper URL: https://arxiv.org/abs/2002.03427 <br>
-
+Code URL: https://github.com/jwzhanggy/SEG-BERT
