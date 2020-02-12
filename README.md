@@ -1,4 +1,4 @@
-# Graph-Bert State-of-the-Art Papers
+# Graph-Bert: state-of-the-art
 ## A list of the latest research papers on graph-bert
 
 ### 1. Graph-Bert: Only Attention is Needed for Learning Graph Representations
