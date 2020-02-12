@@ -1,6 +1,7 @@
 # Graph-Bert: state-of-the-art
 ## A list of the latest research papers on graph-bert
 
+### 2020
 ### 1. Graph-Bert: Only Attention is Needed for Learning Graph Representations
 Release Date: January 2020 <br>
 Paper URL: https://arxiv.org/abs/2001.05140 <br>
