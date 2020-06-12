@@ -17,7 +17,7 @@ Release Date: Feburary 2020 <br>
 Paper URL: https://arxiv.org/abs/2002.03427 <br>
 Code URL: https://github.com/jwzhanggy/SEG-BERT
 
-### 4. G5: A Universal GRAPH-BERT for Graph-to-Graph Transfer and Apocalypse Learning
+### 4. G5: A Universal Graph-Bert for Graph-to-Graph Transfer and Apocalypse Learning
 Release Date: June 2020 <br>
 Paper URL: https://arxiv.org/abs/2006.06183 <br>
 Code URL: https://github.com/jwzhanggy/G5
