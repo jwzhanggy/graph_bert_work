@@ -1,4 +1,4 @@
-# Graph-Bert: state-of-the-art
+I # Graph-Bert: state-of-the-art
 ## A list of the latest research papers on graph-bert
 
 ### 2020
@@ -20,4 +20,4 @@ Code URL: https://github.com/jwzhanggy/SEG-BERT
 ### 4. G5: A Universal Graph-Bert for Graph-to-Graph Transfer and Apocalypse Learning
 Release Date: June 2020 <br>
 Paper URL: https://arxiv.org/abs/2006.06183 <br>
-Code URL: https://github.com/jwzhanggy/G5
+
