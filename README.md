@@ -1,4 +1,4 @@
-I # Graph-Bert: state-of-the-art
+# Graph-Bert: state-of-the-art
 ## A list of the latest research papers on graph-bert
 
 ### 2020
