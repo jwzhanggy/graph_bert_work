@@ -1,6 +1,6 @@
 # Graph-Bert: state-of-the-art
 ## A list of the latest research papers on graph-bert<br>
-(welcome to update the list if you observe new papers on Graph-Bert are published)
+(welcome to update the list if you observe other published papers on Graph-Bert)
 
 ### 2020
 ### 1. Graph-Bert: Only Attention is Needed for Learning Graph Representations
