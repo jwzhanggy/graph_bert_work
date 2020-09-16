@@ -22,3 +22,8 @@ Code URL: https://github.com/jwzhanggy/SEG-BERT
 Release Date: June 2020 <br>
 Paper URL: https://arxiv.org/abs/2006.06183 <br>
 
+### 5. Text Graph Transformer for Document Classification
+Accepted by EMNLP<br>
+Release Date: September 2020<br>
+Paper URL: TBD
+Code URL: TBD
