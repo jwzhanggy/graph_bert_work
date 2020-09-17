@@ -24,7 +24,7 @@ Paper URL: https://arxiv.org/abs/2006.06183 <br>
 Code URL: TBD
 
 ### 5. Text Graph Transformer for Document Classification
-Accepted by EMNLP<br>
+Accepted by EMNLP'20 <br>
 Release Date: September 2020<br>
-Paper URL: TBD
+Paper URL: TBD <br>
 Code URL: TBD
