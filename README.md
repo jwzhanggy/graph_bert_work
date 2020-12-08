@@ -20,11 +20,9 @@ Code URL: https://github.com/jwzhanggy/SEG-BERT
 
 ### 4. G5: A Universal Graph-Bert for Graph-to-Graph Transfer and Apocalypse Learning
 Release Date: June 2020 <br>
-Paper URL: https://arxiv.org/abs/2006.06183 <br>
-Code URL: TBD
+Paper URL: https://arxiv.org/abs/2006.06183 
 
 ### 5. Text Graph Transformer for Document Classification
 Accepted by EMNLP'20 <br>
 Release Date: September 2020<br>
-Paper URL: https://www.aclweb.org/anthology/2020.emnlp-main.668/ <br>
-Code URL: TBD
+Paper URL: https://www.aclweb.org/anthology/2020.emnlp-main.668/ 
