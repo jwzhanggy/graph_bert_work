@@ -26,5 +26,5 @@ Code URL: TBD
 ### 5. Text Graph Transformer for Document Classification
 Accepted by EMNLP'20 <br>
 Release Date: September 2020<br>
-Paper URL: TBD <br>
+Paper URL: https://www.aclweb.org/anthology/2020.emnlp-main.668/ <br>
 Code URL: TBD
